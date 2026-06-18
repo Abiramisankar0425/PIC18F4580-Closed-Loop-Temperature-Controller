@@ -423,7 +423,7 @@ void main(void) {
 
 
 ## Circuit Diagram
-![image alt](
+![image alt](https://github.com/Abiramisankar0425/PIC18F4580-Closed-Loop-Temperature-Controller/blob/8a2250bf5cb771273ea9551f70290c9eca2717ac/temperature_controller.png)
 
 ---
 
